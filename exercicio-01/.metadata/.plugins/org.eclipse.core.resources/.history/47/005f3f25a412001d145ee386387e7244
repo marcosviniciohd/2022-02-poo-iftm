@@ -1,0 +1,14 @@
+import java.util.Scanner;
+
+public class Exemplo3 {
+	
+	public static int verificaNumero() {
+		
+	}
+
+	public static void main(String[] args) {
+		
+		
+	}
+
+}

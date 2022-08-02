@@ -1,0 +1,18 @@
+import java.util.Scanner;
+
+public class Exemplo3 {
+	
+	public static int verificaNumero{
+		Scanner sc = new Scanner(System.in);
+		int numero = sc.nextInt();
+		
+		sc.close();
+	}
+
+	public static void main(String[] args) {
+		
+		
+		
+	}
+
+}

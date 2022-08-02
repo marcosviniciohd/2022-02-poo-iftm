@@ -1,0 +1,20 @@
+import java.util.Scanner;
+
+public class Exemplo3 {
+	
+	public static int verificaNumero{
+		Scanner sc = new Scanner(System.in);
+		System.out.printl("Digite um número ");
+		int numero = sc.nextInt();
+		
+		
+		sc.close();
+	}
+
+	public static void main(String[] args) {
+		
+		
+		
+	}
+
+}

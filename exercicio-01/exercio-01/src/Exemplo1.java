@@ -1,0 +1,26 @@
+import java.util.Scanner;
+
+public class Exemplo1 {
+
+	public static void verificaNumero(){
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Digite um número");
+		int numero = sc.nextInt();
+		while (numero == 0 || numero < 0) {
+			System.out.println("Número inválido");
+			System.out.println("Digite novamente! ");
+			numero = sc.nextInt();
+		}
+		if(numero % 2 == 0) {
+			System.out.println("O numero " + numero + " é par.");
+		}else {
+			System.out.println("O numero " + numero + " é impar.");
+		}
+		sc.close();
+	}
+	public static void main(String[] args) {
+		verificaNumero();
+		
+	}
+
+}

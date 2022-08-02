@@ -1,0 +1,24 @@
+import java.util.Scanner;
+
+public class Exemplo3 {
+	
+	public static int verificaNumero{
+		
+		Scanner sc = new Scanner(System.in);
+		System.out.print("Digite um número ");
+		int numero = sc.nextInt();
+		if (numero % 2 == 0) {
+			System.out.println("O numero " + numero + " é par.");
+			return
+		} else {
+			System.out.println("O numero " + numero + " é impar.");
+		}
+	}
+
+	public static void main(String[] args) {
+		
+		
+		
+	}
+
+}
