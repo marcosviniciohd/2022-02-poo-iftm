@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20c5d51a-30cc-47d3-a8ba-8ccf4e919421" name="Changes" comment="" />
+    <list default="true" id="f18febc0-2753-4edc-9f3a-c8998049a09f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="ProjectId" id="2D8c4BYIGnK5Xz3f2yfjG08LBvH" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2DmAvoiRVwivnqN2cvvZEEak6Lb" />
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -21,17 +17,17 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "F:/_IFTM/2º_Periodo/02-2022/POO/2022-02-poo-iftm/2022-08-09"
+    "last_opened_file_path": "F:/_IFTM/2º_Periodo/02-2022/POO/2022-08-23"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="20c5d51a-30cc-47d3-a8ba-8ccf4e919421" name="Changes" comment="" />
-      <created>1660083958822</created>
+      <changelist id="f18febc0-2753-4edc-9f3a-c8998049a09f" name="Changes" comment="" />
+      <created>1661294118378</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1660083958822</updated>
+      <updated>1661294118378</updated>
     </task>
     <servers />
   </component>
