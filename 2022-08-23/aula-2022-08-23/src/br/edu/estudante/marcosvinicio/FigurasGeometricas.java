@@ -47,53 +47,7 @@ public class FigurasGeometricas {
     public void exibeQuadrado(){
         System.out.println("A area do quadrado com lado " + this.lado + " é " + areaQuadrado());
     }
-    public double getLado() {
-        return lado;
-    }
 
-    public void setLado(double lado) {
-        this.lado = lado;
-    }
-
-    public double getBase() {
-        return base;
-    }
-
-    public void setBase(double base) {
-        this.base = base;
-    }
-
-    public double getAltura() {
-        return altura;
-    }
-
-    public void setAltura(double altura) {
-        this.altura = altura;
-    }
-
-    public double getXc() {
-        return xc;
-    }
-
-    public void setXc(double xc) {
-        this.xc = xc;
-    }
-
-    public double getYc() {
-        return yc;
-    }
-
-    public void setYc(double yc) {
-        this.yc = yc;
-    }
-
-    public double getRaio() {
-        return raio;
-    }
-
-    public void setRaio(double raio) {
-        this.raio = raio;
-    }
 }
 
 
