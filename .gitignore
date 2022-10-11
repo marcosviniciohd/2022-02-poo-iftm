@@ -22,3 +22,7 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 /.metadata/
+/2022-09-06-jogo-da-velha/jogo-da-velha/nbproject/private/
+/2022-09-06-jogo-da-velha/jogo-da-velha/build/
+/2022-09-06-jogo-da-velha/jogo-da-velha-2/jogo-da-velha/nbproject/private/
+/2022-09-06-jogo-da-velha/jogo-da-velha-2/jogo-da-velha/build/
